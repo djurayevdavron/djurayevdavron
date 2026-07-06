@@ -12,13 +12,19 @@ Building modern web applications and scalable backend systems with clean, mainta
 
 ## Education
 
+### First Specialty
+
 **Tashkent State Technical University named after Islam Karimov**
 
-Bachelor's Degree in Engineering Technology
+Engineering Technology
+
+### Second Specialty (Current)
 
 **Tashkent University of Information Technologies named after Muhammad al-Khwarizmi (TUIT)**
 
-B.Sc. in Software Engineering (Distance Learning)
+Software Engineering (Distance Learning)
+
+### Professional Training
 
 **Najot Ta'lim**
 
