@@ -12,12 +12,17 @@ Building modern web applications and scalable backend systems with clean, mainta
 
 ## Education
 
-- **Tashkent University of Information Technologies named after Muhammad al-Khwarizmi (TUIT)**
-  - B.Sc. in Software Engineering (Distance Learning)
+**Tashkent State Technical University named after Islam Karimov**
 
-- **Najot Ta'lim**
-  - Full Stack Web Development – Web Practicum
+Bachelor's Degree in Engineering Technology
 
+**Tashkent University of Information Technologies named after Muhammad al-Khwarizmi (TUIT)**
+
+B.Sc. in Software Engineering (Distance Learning)
+
+**Najot Ta'lim**
+
+Full Stack Web Development – Web Practicum
 ## Contact
 
 - **Portfolio:** https://jurayev-davron-portfolio.vercel.app
